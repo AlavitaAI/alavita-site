@@ -47,26 +47,6 @@ export default function Home() {
                 </button>
               </form>
             </div>
-
-
-          <h1 className="text-4xl sm:text-5xl font-bold mb-4">Alavita – Your AI Health & Wellness Coach</h1>
-          <p className="text-lg text-gray-200 mb-6">
-            Get personalized workouts, nutrition, and recovery plans daily—powered by AI.
-          </p>
-
-          <form className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <input
-              type="email"
-              placeholder="name@email.com"
-              className="px-4 py-3 rounded-md w-full sm:w-auto bg-black border border-gray-600 text-white placeholder-gray-400"
-            />
-            <button
-              type="submit"
-              className="bg-white text-black font-semibold px-6 py-3 rounded-md hover:bg-gray-200 transition"
-            >
-              Join
-            </button>
-          </form>
         </div>
 
         {/* Mockup image */}
