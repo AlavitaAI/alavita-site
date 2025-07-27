@@ -41,7 +41,7 @@ export default function Home() {
 
         {/* Mockup image */}
         <div className="mt-16">
-          <img src="/mockup.png" alt="Alavita app preview" className="w-72 sm:w-96 mx-auto" />
+          <img src="assets/App_icon.png" alt="Alavita Logo" className="w-72 sm:w-96 mx-auto" />
         </div>
       </section>
     </main>
