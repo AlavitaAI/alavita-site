@@ -16,7 +16,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center mt-10">
-        <p className="text-center text-sm text-green-400 mb-4">Soon • Launching in August 2025</p>
+        <p className="text-center text-sm text-emerald-400 mb-4">Soon • Launching in August 2025</p>
 
           <div
             className="relative rounded-3xl shadow-xl p-10 w-full max-w-xl text-center overflow-hidden"
@@ -47,15 +47,6 @@ export default function Home() {
                 </button>
               </form>
             </div>
-        </div>
-
-        {/* Mockup image */}
-        <div className="mt-16">
-        <img
-          src="/assets/App_icon.png"
-          alt="Alavita Logo"
-          className="w-32 sm:w-48 mx-auto mt-10 rounded-xl"
-        />
         </div>
       </section>
     </main>
